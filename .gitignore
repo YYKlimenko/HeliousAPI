@@ -1,0 +1,9 @@
+*.py[code]
+__pycache__/
+venv/
+.idea/
+.pytest_cache/
+*.mypy_cache
+*.env
+frontend/
+logging/
